@@ -15,3 +15,5 @@ The GIST platform uses the latest technology to&nbsp;work with big data (Big Dat
 * automatic evaluation of&nbsp;the current information background for investment decision making.
 
 At&nbsp;the moment, the non-public test version is&nbsp;launched. Search and recognition is&nbsp;conducted in&nbsp;English.
+
+For additional information visit our <a href="https://g1.st">project page</a> or join our <a href="https://t.me/Gist_chat">Telegram channel</a>.
